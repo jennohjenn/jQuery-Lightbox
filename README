@@ -1,0 +1,15 @@
+Instructions:
+
+This Light-box contains the following:
+Files
+
+    index.php - where you modify the images and the text you want to display.
+    header.php - taking care of pagebuilding and scriptholding.
+    footer.php - taking care of pagebuilding and scriptholding.
+    source.php - only include this file if you have a need of showing your code. Not neccassary for the function of the plugin.
+
+Folders
+
+    img - containing example images, free for use.
+    js - where all the needed javascript is put.
+    style - this lightbox plugin use LESS and file needed for that is placed in the js-folder.
