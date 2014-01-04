@@ -49,7 +49,7 @@
 <hr />
 <b>Instructions</b>:<br />
 
-<p>This Light-box can be downloaded [ <a href="#">here</a> ] and contains the following:</p>
+<p>This Light-box can be downloaded [ <a href="https://github.com/jennohjenn/jQuery-Lightbox">here</a> ] and contains the following:</p>
 <b>Files</b>
 <ul>
 	<li>index.php - where you modify the images and the text you want to display.</li>
