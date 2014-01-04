@@ -1,0 +1,36 @@
+/**
+ * Import base style
+ */
+@import "base.less";
+ 
+/**
+ * Here comes specific style for a certain test program.
+ */
+
+// Lightbox
+#overlay{position:fixed;top:0;left:0;width:100%;height:100%;z-index:998;
+background:#000 no-repeat scroll center center;}
+#lightbox{position:fixed;z-index:999;}
+
+// Box
+
+hr,h1,h2 {
+    clear: both;
+}
+#box {
+    float: left;
+    margin-right: 15px;
+    margin-bottom: 15px;
+    border: solid 1px #000;
+    background: #eee;
+    color: #000;
+    font-size: 12px;
+    font-face: Verdana;
+    height: 300px;
+    max-width: 200px;
+    padding: 10px;
+    -webkit-border-radius: 5px 5px 5px 5px;
+    border-radius: 5px 5px 5px 5px;
+    -webkit-box-shadow: 0 5px 5px 5px #6E6E6E;
+    box-shadow: 0 5px 5px 5px #6E6E6E;
+}
